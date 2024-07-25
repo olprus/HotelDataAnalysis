@@ -12,7 +12,7 @@ The table below shows the tasks that have been assigned and their status of comp
 | 5 | Data visualization                   | Done &#x2714;   |
 | 6 | Data presentation and interpretation | Done &#x2714;   |
 
-
+**Dashboard link:** https://olprus.github.io/Sales_analysis/
 
 ## Tools used for Data Preparation and Analysis
 In the data preparation and analysis phase, several tools were employed to ensure the effectiveness and efficiency of the process:
@@ -36,20 +36,20 @@ A critical aspect of the analysis was to determine whether the stores were meeti
 
 When cleaning data, columns, and rows with empty values were removed, the type of data was changed where necessary, summing lines were removed, and data was transformed (the tables are designed for ease of use). Final data view of one of the tables:
 
-![Cleaned data](https://github.com/olprus/PrivatePictures/blob/main/Screenshot_1.jpg)
+![Cleaned data](https://github.com/olprus/Sales_analysis/blob/main/Pictures/Screenshot_1.jpg)
 
 ## Creating a data model in Power BI
 After downloading the cleaned datasets to Power BI, a data model was built where the tables were linked. The final view of the model (without hidden tables) is given below:
 
-![Data model in Power BI](https://github.com/olprus/PrivatePictures/blob/main/Screenshot_25.jpg)
+![Data model in Power BI](https://github.com/olprus/Sales_analysis/blob/main/Pictures/Screenshot_25.jpg)
 
 ## Data analysis and visualization
 
 The main metrics that were needed by the client are both on the main screen and for each individual city, which can be found in filters on the dashboard:
 
-![Main window view](https://github.com/olprus/PrivatePictures/blob/main/Screenshot_2.jpg)
+![Main window view](https://github.com/olprus/Sales_analysis/blob/main/Pictures/Screenshot_2.jpg)
 
-![Dnipro filter view](https://github.com/olprus/PrivatePictures/blob/main/Screenshot_3.jpg)
+![Dnipro filter view](https://github.com/olprus/Sales_analysis/blob/main/Pictures/Screenshot_3.jpg)
 
 ## Summary 
 
